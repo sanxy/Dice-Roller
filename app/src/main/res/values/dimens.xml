@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_start_end">8dp</dimen>
+    <dimen name="margin_top">24dp</dimen>
+    <dimen name="margin_top_dice_image">60dp</dimen>
+</resources>

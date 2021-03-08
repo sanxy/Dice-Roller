@@ -10,8 +10,8 @@ import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {
 
-    lateinit var diceImage: ImageView
-    lateinit var binding: ActivityMainBinding
+    private lateinit var diceImage: ImageView
+    private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
